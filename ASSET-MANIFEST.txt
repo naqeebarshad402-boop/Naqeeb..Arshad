@@ -1,0 +1,30 @@
+SOURCE: Naqeeb-Arshad-PORTFOLIO-UPDATED-3-1.pdf
+Profile duplicate in PDF page 17 intentionally not duplicated as a second file.
+Unique project/detail images extracted from PDF: 26
+
+assets/projects/afsd-frame-table-assembly.jpg
+assets/projects/afsd-fyp-machine-green.jpg
+assets/projects/autocad-residential-house.jpg
+assets/projects/base-plate-fos.jpg
+assets/projects/base-plate-modal.jpg
+assets/projects/base-plate-stress.jpg
+assets/projects/bearing-pulley-housing.jpg
+assets/projects/bolted-clamp-fixture.jpg
+assets/projects/cnc-gm-code.jpg
+assets/projects/creo-flange-coupling.jpg
+assets/projects/creo-manufacturing-setup.jpg
+assets/projects/creo-profile-milled-part.jpg
+assets/projects/drone-deployment-rack.jpg
+assets/projects/drone-locking-system.jpg
+assets/projects/folding-stair-platform.jpg
+assets/projects/machined-bracket.jpg
+assets/projects/radar-locking-mechanism.jpg
+assets/projects/rotary-cylindrical-cleaner.jpg
+assets/projects/solidworks-housing.jpg
+assets/projects/support-column-fos.jpg
+assets/projects/support-column-stress.jpg
+assets/projects/table-plate-fos.jpg
+assets/projects/table-plate-stress.jpg
+assets/projects/tail-stock-lathe.jpg
+assets/projects/vehicle-fence-post-driver.jpg
+assets/projects/vertical-milling-machine-head.jpg
